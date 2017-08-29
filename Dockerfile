@@ -8,6 +8,7 @@ RUN apk update && apk add \
   bash \
   git \
   nodejs \
+  nodejs-npm \
   nginx \
   python \
   py-pip
